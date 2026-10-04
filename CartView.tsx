@@ -8,7 +8,7 @@ import ProductImage from "./ProductImage";
 
 const FREE_SHIPPING = 299;
 const SHIPPING = 19.9;
-const WHATSAPP = "5535998674116";
+const WHATSAPP = "+55(35)99867-4116";
 
 export default function CartView() {
 const { items, subtotal, setQty, remove, clear } = useCart();
